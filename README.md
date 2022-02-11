@@ -1,4 +1,4 @@
-Testing HTTP
+##Testing HTTP##
 
 Se desarrollará un testing en el Feature, carpeta propia de las funciones y caracteristicas.  Donde probaremos cualquier conexión que hacemos desde un navegador. Se aplicará en este proyecto el metodo TDD. (https://www.paradigmadigital.com/dev/tdd-como-metodologia-de-diseno-de-software/)
 1. Comprobar que no se esté pasando datos de la base de datos al home.
